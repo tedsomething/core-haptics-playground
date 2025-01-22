@@ -1,4 +1,4 @@
-A simple SwiftUI app that lets you explore and tweak Core Haptics vibrations and synthetic audio.
+A helpful SwiftUI app that lets you explore and tweak Core Haptics vibrations and synthetic audio.
 
 ## Preview
 

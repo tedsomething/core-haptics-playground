@@ -2,7 +2,7 @@ A simple SwiftUI app that lets you explore and tweak Core Haptics vibrations and
 
 ## Preview
 
-<img src="https://github.com/VIkill33/ConfettiWithSpriteView/assets/78488529/c4c32903-e5a4-4695-8834-6f5352c29ca6" width="200">
+<img src="Preview/Preview.png" width="250">
 
 ## Why?
 
